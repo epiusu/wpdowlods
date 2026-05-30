@@ -40,8 +40,10 @@ Bu yapı bir WordPress eklentisi değil, tema entegreli bir snippet'tir. Kurulum
 
 FTP veya WordPress Dosya Düzenleyicisi üzerinden aktif temanızın **`functions.php`** dosyasını açın ve en alt satıra şu kodu ekleyin:
 
+### **ISO İndirme Sistemi** 
+
 ```
-**`// ISO İndirme Sistemirequire\_once get\_template\_directory() . '/downloads.php';`**
+require_once get_template_directory() . '/downloads.php';
 ```
 
 **⚠️ Önemli Not:** Kodu **`?\>`** etiketinden önce eklediğinizden emin olun. Eğer **`functions.php`** dosyanız **`?\>`** ile bitmiyorsa, en alt satıra direk yapıştırabilirsiniz.
