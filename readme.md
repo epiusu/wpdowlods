@@ -146,5 +146,5 @@ max-width: 100% !important;
 Bu proje [GPL-2.0+](https://www.gnu.org/licenses/gpl-2.0.html) lisansı altında sunulmuştur. Dilediğiniz gibi kullanabilir, değiştirebilir ve dağıtabilirsiniz.
 
 
-**Hazırlayan:** [mynetiz.com](https://mynetiz.com/downloads/) için geliştirilmiştir. \`\`\`
+**Hazırlayan:** [https://github.com/epiusu/](https://github.com/epiusu/) tüm web sayfalar için geliştirilmiştir. Not: bu kod yapay zeka kod araçları ile geliştirmiştir.Kullanım sorumluluğu kullanıcıya aittir. Geliştiriciler sorumlu tutulamaz. \`\`\`
 
